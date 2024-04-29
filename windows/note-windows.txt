@@ -1,0 +1,8 @@
+Prerequisite
+
+- Java 8
+  install java 8 and configure environment
+  https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html
+
+Steps
+- (Double click)/Run bat file in any sequence/need.

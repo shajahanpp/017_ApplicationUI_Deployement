@@ -1,0 +1,2 @@
+log.txt filter=lfs diff=lfs merge=lfs -text
+Ust-web-backend-0.0.1-SNAPSHOT.war filter=lfs diff=lfs merge=lfs -text

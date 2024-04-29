@@ -1,0 +1,11 @@
+sudo docker container stop ust-wed-backend
+sudo docker container rm -f ust-wed-backend
+sudo docker image rm -f ust-wed-backend
+
+sudo docker build -t ust-wed-backend .
+sudo docker run --name=ust-wed-backend -i --network=host -d ust-wed-backend
+sudo docker run --name=ust-wed-backend -i -p 9090:9090 -d ust-wed-backend
+
+sudo docker container start ust-wed-backend
+sudo docker container stop ust-wed-backend
+sudo docker container logs ust-wed-backend
