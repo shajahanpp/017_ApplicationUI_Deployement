@@ -1,0 +1,9 @@
+Prerequisite
+- update system using command "sudo apt-get update"
+
+Step 1
+Install Docker
+
+Step 2
+Run Script
+sudo ./00_UST_App.sh
