@@ -5,5 +5,8 @@ Step 1
 Install Docker
 
 Step 2
+Import etaf.sql for Database structure
+
+Step 3
 Run Script
 sudo ./00_UST_App.sh

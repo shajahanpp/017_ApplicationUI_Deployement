@@ -2,4 +2,7 @@ Step 1
 Install Docker
 
 Step 2
+Import etaf.sql for Database structure
+
+Step 3
 - (Double click)/Run bat file 00_UST_App.bat
