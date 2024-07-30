@@ -8,5 +8,8 @@ Step 2
 Import etaf.sql for Database structure
 
 Step 3
+Change application properties as per need.
+
+Step 4
 Run Script
 sudo ./00_UST_App.sh

@@ -5,4 +5,7 @@ Step 2
 Import etaf.sql for Database structure
 
 Step 3
+Change application properties as per need.
+
+Step 4
 - (Double click)/Run bat file 00_UST_App.bat
