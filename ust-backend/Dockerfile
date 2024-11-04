@@ -1,4 +1,5 @@
 FROM openjdk:8
+#FROM openjdk:11
 WORKDIR /ust/web/backend
 ADD ./ /ust/web/backend
 #RUN ls -l
